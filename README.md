@@ -1,6 +1,6 @@
 <div align="center">
 
-![Custom developer banner](https://private-us-east-1.manuscdn.com/sessionFile/aZNGk5FctMSubwlRtm5zyH/sandbox/Y5RbWg5bf9O0AiiVFESs97-images_1795030757357_na1fn_L2hvbWUvdWJ1bnR1L0ZyZWRyaWNrS2NvZGUtcHJvZmlsZS9wcm9maWxlLWJhbm5lcg.jpg?Expires=1795203559&Signature=MEUCIQDxe3WMAer4sroNOEwY9qAJRV75kobjzIT344HkB88i3gIgKAXIq1yyZ3Sp4BdK7IAg3wEkQkr-sRXafCrhhA-NbNc_&Key-Pair-Id=K1K5N5YNBUUMMN)
+![Colorful developer banner](https://private-us-east-1.manuscdn.com/sessionFile/aZNGk5FctMSubwlRtm5zyH/sandbox/DS9AyT7JMPH1RVBeQyeuu8-images_1795031413725_na1fn_L2hvbWUvdWJ1bnR1L0ZyZWRyaWNrS2NvZGUtcHJvZmlsZS9wcm9maWxlLWJhbm5lci1jb2xvcg.jpg?Expires=1795204216&Signature=MEQCIFQD5yA4LIQJ4NIH8BZc23vYXuifjUqdS-qtWl4TZPWSAiAHSUPqrJLQoOx29jaWmWUcFqohIW1EUuUdN7DO5VZziA__&Key-Pair-Id=K1K5N5YNBUUMMN)
 
 # 👋 Hey, I'm Fredrick Kato
 
@@ -25,16 +25,6 @@ I build web experiences and explore how software, networks, and blockchain syste
 - 🚀 Exploring AI-integrated products, web development, and Cardano smart contracts.
 
 - 🤝 Open to learning, collaboration, and building useful technology.
-
-## 🎨 Ruff Designs — my services
-
-Need a website, online store, graphic design, AI concierge, or digital marketing? View the poster and [message me on WhatsApp](https://wa.me/27737208090).
-
-<div align="center">
-
-[![Ruff Designs services poster](https://private-us-east-1.manuscdn.com/sessionFile/aZNGk5FctMSubwlRtm5zyH/sandbox/Y5RbWg5bf9O0AiiVFESs97-images_1795030757357_na1fn_L2hvbWUvdWJ1bnR1L0ZyZWRyaWNrS2NvZGUtcHJvZmlsZS9ydWZmLWRlc2lnbnMtcG9zdGVy.jpeg?Expires=1795203559&Signature=MEYCIQCdRoBfPTNNthWAUVxtIO~vNnl7wWh2BXCCfp8CcN5hHgIhANp~TY78Nn0J7HDeC2qVjQ0bpPx-cm5HgOIUB-0aiv8O&Key-Pair-Id=K1K5N5YNBUUMMN)](https://wa.me/27737208090)
-
-</div>
 
 ## ✨ Featured projects
 
@@ -68,13 +58,27 @@ Haskell learning tasks organized by chapter.
 ## 📊 GitHub at a glance
 
 <div align="center"> <a href="https://github.com/FredrickKcode">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FredrickKcode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Fredrick's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FredrickKcode&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Fredrick's GitHub statistics" />
 </a>
 <a href="https://github.com/FredrickKcode">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredrickKcode&layout=compact&theme=tokyonight&hide_border=true" alt="Fredrick's most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredrickKcode&layout=compact&theme=radical&hide_border=true" alt="Fredrick's most-used languages" />
 </a> <a href="https://github.com/FredrickKcode">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FredrickKcode&theme=tokyo-night&hide_border=true&area=true" alt="Fredrick's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FredrickKcode&theme=redical&hide_border=true&area=true" alt="Fredrick's GitHub activity graph" />
 </a> </div>
+
+---
+
+## 🎨 Ruff Designs — my services
+
+Websites, e-commerce, graphic design, AI concierge solutions, and digital marketing. Call [0614740677](tel:+27614740677) or [message me on WhatsApp](https://wa.me/27614740677).
+
+<div align="center">
+
+<a href="ruff-designs-poster.jpeg"><img src="ruff-designs-poster.jpeg" width="300" alt="Ruff Designs services poster with the updated phone number" /></a>
+
+[![WhatsApp 0614740677](https://img.shields.io/badge/WhatsApp-0614740677-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27614740677)
+
+</div>
 
 ---
 
@@ -83,18 +87,3 @@ Haskell learning tasks organized by chapter.
 ### 🌱 Always learning. Always building.
 
 </div>
-
-<!--
-**FredrickKcode/FredrickKcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
